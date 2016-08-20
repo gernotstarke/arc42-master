@@ -9,9 +9,9 @@ free and open source.
 
 This repository contains the golden master of the arc42 template as asciidoc formatted template in English and German.
 
-If you want to give feedback to the content of this template or discuss the structure, please use the [issue tracker of this repository](https://github.com/arc42/arc42-master/issues). Feel free to send pull requests if you find typos or other quality related issues.
+If you want to give feedback to the content of this template or discuss the structure, please use the https://github.com/arc42/arc42-master/issues[issue tracker of this repository]. Feel free to send pull requests if you find typos or other quality related issues.
 
-If you want to work with one of the generated arc42 templates in various formats, you can download them [here](arc42.github.io) or directly from the [arc42-template repository](https://github.com/arc42/arc42-template/)
+If you want to work with one of the generated arc42 templates in various formats, you can download them [here](arc42.github.io) or directly from the https://github.com/arc42/arc42-template/[arc42-template repository]
 
-If you want to give feedback to the various formats or propose a change to the arc42-generator, please switch to the [arc42-generator repository](https://github.com/arc42/arc42-generator/)
+If you want to give feedback to the various formats or propose a change to the arc42-generator, please switch to the https://github.com/arc42/arc42-generator/[arc42-generator repository]
 
